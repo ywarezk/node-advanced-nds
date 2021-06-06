@@ -11,6 +11,17 @@ Node.js advanced course given to NDS on June 2021.
 - Sunday June 27th, 2021 - 9:00 - 12:30 - **online**
 - Wednesday June 30th, 2021 - 9:00 - 12:30 - **online**
 
+## Things you wanted to learn in Javascript
+
+- async - await
+- Promise
+- error-first callback
+- callback hell
+- by reference or by value
+- this
+- oop
+- prototype
+
 ## Prerequisites
 
 - NPM
