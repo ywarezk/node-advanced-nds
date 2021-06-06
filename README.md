@@ -11,4 +11,9 @@ Node.js advanced course given to NDS on June 2021.
 - Sunday June 27th, 2021 - 9:00 - 12:30 - **online**
 - Wednesday June 30th, 2021 - 9:00 - 12:30 - **online**
 
+## Prerequisites
+
+- NPM
+- Basic Node.js
+- Basic Express
 
