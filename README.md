@@ -30,3 +30,8 @@ Node.js advanced course given to NDS on June 2021.
 
 ## Videos
 
+1. https://synamedia-my.sharepoint.com/:v:/p/oliberman/EQzZm47TptBIg32s3k6UUiYBR3Gc8deEBUouHyj_ro12CA
+
+2. https://synamedia-my.sharepoint.com/:v:/p/oliberman/Ecwebi_9lH1JptGQrzCKEXQB6J2Jt24tsIeCAKcN9hF34Q
+
+3. https://synamedia-my.sharepoint.com/:v:/p/oliberman/ET0Xck32zHlAqkCk3YLnowYBf83OvyO87z3HlPQP3Rad6w
