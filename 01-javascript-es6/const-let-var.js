@@ -1,4 +1,8 @@
+// function(require, module, exports, __dirname) {
+	
+// }()
 
+// require('lodash')
 
 var hello = 'world';
 var hello1;
