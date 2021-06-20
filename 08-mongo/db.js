@@ -15,15 +15,14 @@ const client = new MongoClient(
 
 /**
  * 
- * @returns {Promise<Db>}
+ * @returns {Promise<MongoClient.db>}
  */
 async function main() {
 	try {
 		await client.connect();
 		const db = client.db(process.env.DATABASE_NAME);
-		const usersCollection = db.collection('users');
-		usersCollection.insertMany
-		db.collection()
+		db.createCollection
+		// db.collection('users').insertMany
 		console.log('connected...');	
 		return db;
 	} catch(err) {
@@ -36,6 +35,7 @@ async function main() {
 
 const db = main();
 
+/** @type {client: any, dbPromise: Promise<MongoClient.db>} */
 module.exports = {
 	client,
 	dbPromise: db
