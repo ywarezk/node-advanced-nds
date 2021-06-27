@@ -28,20 +28,20 @@ describe('users', () => {
 	
 	// load few document to the users collection
 	beforeEach(async () => {
-		db.createCollection('users', {
-			validator: {
-				$jsonSchema: {
-         			bsonType: "object",
-         			required: [ "firstName", "lastName", "images"],
-					properties: {
-						images: {
-							bsonType: 'array',
+		// db.createCollection('users', {
+		// 	validator: {
+		// 		$jsonSchema: {
+        //  			bsonType: "object",
+        //  			required: [ "firstName", "lastName", "images"],
+		// 			properties: {
+		// 				images: {
+		// 					bsonType: 'array',
 							
-						}
-					}
-				}
-			}
-		})
+		// 				}
+		// 			}
+		// 		}
+		// 	}
+		// })
 		
 		usersCollection = db.collection('users');
 		// db.createCollection

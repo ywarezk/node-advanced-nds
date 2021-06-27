@@ -66,7 +66,7 @@ app.get('/api/users', async (req, res) => {
 					foreignField: 'userId',
 					as: 'posts'
 				}
-			}	
+			}
 		]).toArray();
 		res.status(200).json(users);	
 	} catch(err) {
