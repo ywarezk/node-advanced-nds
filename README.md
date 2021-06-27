@@ -30,11 +30,12 @@ Node.js advanced course given to NDS on June 2021.
 
 ## Videos
 
-1. https://synamedia-my.sharepoint.com/:v:/p/oliberman/EQzZm47TptBIg32s3k6UUiYBR3Gc8deEBUouHyj_ro12CA
+1. [vid1](https://synamedia-my.sharepoint.com/:v:/p/oliberman/EQzZm47TptBIg32s3k6UUiYBR3Gc8deEBUouHyj_ro12CA)
 
-2. https://synamedia-my.sharepoint.com/:v:/p/oliberman/Ecwebi_9lH1JptGQrzCKEXQB6J2Jt24tsIeCAKcN9hF34Q
+2. [vid2](https://synamedia-my.sharepoint.com/:v:/p/oliberman/Ecwebi_9lH1JptGQrzCKEXQB6J2Jt24tsIeCAKcN9hF34Q)
 
-3. https://synamedia-my.sharepoint.com/:v:/p/oliberman/ET0Xck32zHlAqkCk3YLnowYBf83OvyO87z3HlPQP3Rad6w
+3. [vid3](https://synamedia-my.sharepoint.com/:v:/p/oliberman/ET0Xck32zHlAqkCk3YLnowYBf83OvyO87z3HlPQP3Rad6w)
 
-4. https://synamedia-my.sharepoint.com/:v:/p/abichman/EVAES70ucpNGpzn8WXeqlcIBbcwOGvLL69XYWo-mDhrB4A
+4. [vid4](https://synamedia-my.sharepoint.com/:v:/p/abichman/EVAES70ucpNGpzn8WXeqlcIBbcwOGvLL69XYWo-mDhrB4A) 
 
+5. [vid5](https://synamedia-my.sharepoint.com/:v:/p/oliberman/ESKkC9BrjR5HlGxHwOe5EGoB8o5Zp2xkOYvoWdn1OZEMPQ)
