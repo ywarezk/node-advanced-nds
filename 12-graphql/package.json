@@ -1,0 +1,18 @@
+{
+  "name": "12-graphql",
+  "version": "1.0.0",
+  "description": "- communication between client and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.25.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "mongodb": "^3.6.9"
+  }
+}
